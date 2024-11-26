@@ -8,9 +8,10 @@ My name is Isabell Victoria Strandby Ernst or just.. Isabell. I hold a PhD in Bi
   <i>Let's connect!</i>
   </p>
   <p align="center">
-    <a href="https://x.com/IsabellVSE" alt="X"><img src="https://github.com/Isabellvse/Isabellvse/blob/main/X.svg"></a>
     <a href="www.linkedin.com/in/isabell-victoria-strandby-ernst-5a4780178" alt="Linkedin"><img src="https://github.com/Isabellvse/Isabellvse/blob/main/linkedin.svg"></a>
     <a href="mailto:isabellvse@bmb.sdu.dk" alt="Contact me"><img src="https://github.com/Isabellvse/Isabellvse/blob/main/mail.svg"></a>
+    <a href="https://x.com/IsabellVSE" alt="X"><img src="https://github.com/Isabellvse/Isabellvse/blob/main/X.svg"></a>
+    <a href="https://orcid.org/0000-0002-3276-4764" alt="X"><img src="https://github.com/Isabellvse/Isabellvse/blob/main/external_link"></a>
   </p>
 
 <!--
