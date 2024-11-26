@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome 
+
+![Banner](https://github.com/Isabellvse/Isabellvse/blob/main/banner.png)
 
 <!--
 **Isabellvse/Isabellvse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
