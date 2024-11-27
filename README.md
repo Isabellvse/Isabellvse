@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub page! 
 
-My name is Isabell Victoria Strandby Ernst or just.. Isabell. I hold a PhD in Biochemistry and Molecular Biology from the University of Southern Denmark, which I completed in August 2024. I am currently a Postdoctoral Researcher in the [MadLab](https://github.com/madsen-lab) group at the same department and institution. My doctoral research spanned both wet-lab and dry-lab work, focusing on single-cell multiomic techniques applied to Islets of Langerhans from mice. As a researcher, I am motivated by a desire to engage in work that is meaningful, while prioritizing transparency, organization, and reproducibility in research practices.
+My name is Isabell Victoria Strandby Ernst... or just Isabell. I hold a PhD in Biochemistry and Molecular Biology from the University of Southern Denmark, which I completed in August 2024. I am currently a Postdoctoral Researcher in the [MadLab](https://github.com/madsen-lab) group at the same department and institution. My doctoral research spanned both wet-lab and dry-lab work, focusing on single-cell multiomic techniques applied to Islets of Langerhans from mice. As a researcher, I am motivated by a desire to engage in work that is meaningful, while prioritizing transparency, organization, and reproducibility in research practices.
 
 <p align="center">
   <i>Let's connect!</i>
